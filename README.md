@@ -3,8 +3,7 @@
 <table>
 <tr>
 <td>
-  Socio is a social media web application in which users can post their pictures,videoes,GIFs etc. Once registered and logged in they can add friends and use other features too.
-</td>
+Socio is a social media web application in which users can post their pictures, videos, GIFs, etc. Once registered and logged in they can add friends and use other features too.</td>
 </tr>
 </table>
 
