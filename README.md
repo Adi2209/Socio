@@ -11,6 +11,8 @@ Socio is a social media web application in which users can post their pictures, 
 ## Demo Video
 Here is a working demo Video :  
 
+If you want to watch on YouTube: https://youtu.be/AH4TI8pztcM
+
 https://user-images.githubusercontent.com/75134530/208979192-1559ca79-bfea-4e1e-bb0f-154b5c546766.mp4
 
 ## Site
